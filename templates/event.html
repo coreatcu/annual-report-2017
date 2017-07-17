@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block content %}
+
+<nav class="navbar navbar-toggleable-md navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- box header -->
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header page-scroll">
+
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1"
+        aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand page-scroll" href="https://www.coreatcu.com/">
+        <img class="hidden-xs" src="{{ url_for('static', filename='img/logo.png') }}" width="80" alt="">
+        <img class="visible-xs" src="{{ url_for('static', filename='img/logo.png') }}" width="80" alt="">
+      </a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <ul class="nav navbar-nav navbar-right collapse navbar-collapse" id="navbar-collapse-1">
+      <li><a href="{{ url_for('index') }}">
+        <span class="box-menu-text">Home</span></a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!-- main-container -->
+<div class="container main-container">
+  <div class="col-md-12">
+    <img src="http://placehold.it/1920x1080" alt="" width="640" class="img-responsive" />
+    <div class="h-30"></div>
+  </div>
+
+  <div class="col-md-12">
+    <h3 class="text-uppercase">{{ event_data['name']|e }}</h3>
+    <div class="h-30"></div>
+  </div>
+
+  <div class="col-md-12">
+    <p>{{ event_data['description'] }}</p>
+
+    {% if 'impulse' in event_data.keys() %}
+      <p>Read more about it in our <a href=\"{{ event_data['impulse'] }}\">Impulse coverage</a>.
+    {% endif %}
+  
+  </div>
+
+</div>
+<!-- end main-container -->
+
+{% endblock %}
