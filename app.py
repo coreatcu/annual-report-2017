@@ -19,8 +19,6 @@ def index():
 @app.route('/event/<event_name>')
 def events(event_name):
     if not event_name in data.keys():
-        print event_name
-        print data.keys()
         abort(404)
     return render_template('event.html', event_data=data[event_name])
 
