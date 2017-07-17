@@ -9,7 +9,6 @@ def load_data():
     global data
     with open("data/events.json", 'r') as file:
         data = simplejson.load(file)
-    print data.keys()
 
 @app.route('/')
 @app.route('/index')
