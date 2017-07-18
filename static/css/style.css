@@ -85,6 +85,13 @@ img {
     margin: 0 auto;
 }
 
+.btn{
+    border:0px solid transparent;
+}
+
+.btn:active {
+    border: 0px solid transparent;
+}
 
 /* typography
 ==================================================*/
