@@ -32,7 +32,7 @@
 <!-- main-container -->
 <div class="container main-container">
   <div class="col-md-12">
-    <img src="http://placehold.it/1920x1080" alt="" width="640" class="img-responsive" />
+    <img src="/static/img/page_image/{{ event_data.image | default('barcelona.jpg') }}" alt="http://placehold.it/1920x1080" width="640" class="img-responsive" />
     <div class="h-30"></div>
   </div>
 
@@ -42,10 +42,10 @@
   </div>
 
   <div class="col-md-12">
-    <p>{{ event_data['description'] }}</p>
+    <p>{{ event_data['description']|safe }}</p>
 
     {% if 'impulse' in event_data.keys() %}
-      <p>Read more about it in our <a href=\"{{ event_data['impulse'] }}\">Impulse coverage</a>.
+      <p>Read more about it in our <a href="{{ event_data['impulse'] }}">Impulse coverage</a>.
     {% endif %}
   
   </div>

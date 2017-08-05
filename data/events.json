@@ -1,56 +1,56 @@
 {
     "barcelona": {
         "name": "Barcelona Tech Trek",
-        "image": "",
-        "description": "BARCELONA DESCRIPTION"
+        "image": "barcelona.jpg",
+        "description": "22 students spent spring break with CORE in Barcelona exploring its rich entrepreneurial shores and deep cultural history. Trip participants met operators, investors, and founders from companies tackling enterprise foreign exchange, mobile advertising, and computer vision for fashion retail. Between hostel nights and site visits, students also got to enjoy plentiful paella, Gaudi's architetural legacy, and each other's company over late-night tapas, Zara excursions, and Nutella-stuffed churros."
     },
     "almaworks": {
         "name": "Almaworks",
-        "image": "",
+        "image": "almaworks.jpg",
         "description": "Almaworks started as a simple idea: an accelerator program built by students for students. But over just the past two years, it has expanded into becoming one of the most successful student-run accelerators in the country, seeing an Almaworks startup enter Y Combinator and go on to raise a 3.1MM seed round from investors such as KPCB, FundersClub, and many prominent angel investors. Our latest cohort of seven student startups engaged in a nine week intensive program which connected founders with mentors who could teach necessary and proven skills, and included founders tackling challenges in spaces such as hospitality marketing, fantasy sports, and hangover cures.",
         "impulse": "https://impulse.coreatcu.com/tagged/almaworks"
     },
     "khaled-huffington": {
         "name": "DJ Khaled + Arianna Huffington",
-        "image": "",
+        "image": "khaled-huffington.jpg",
         "description": "Havemeyer 309 was packed to capacity for CORE's exclusive fireside chat with Snapchat superstar and music producer DJ Khaled, hosted by The Huffington Post co-founder and Thrive Global founder Arianna Huffington. The media moguls chatted about Khaled's \"major keys\" to success and how anyone can win, win, win, no matter what. Students got a chance to appear on Khaled's Snapchat story, and CORE's own Snapchat geofilter racked up 1.9 million views.",
         "impulse": "https://impulse.coreatcu.com/dj-khaled-arianna-huffington-dig-deep-caffb72d95a8"
     },
     "socratic": {
         "name": "Socratic Circles",
-        "image": "",
+        "image": "socratic.jpg",
         "description": "Impulse launched its Socratic Circles series this past year to provide intimate forums dedicated to creating meaningful and personal conversation around entrepreneurship. Students got to engage guests in student-driven conversations around their life stories, how they got to where they are today, and what advice they have for college students who want to build their careers or make an impact. The Socratic Circles series has featured voices from the NYC entrepreneurship scene such as the VP Engineering of Dots, the cofounder of Republic.co, and the founder of Columbia Startup Lab startup Dearest. ",
         "impulse": "https://impulse.coreatcu.com/a-game-made-to-be-beautiful-7306050e4a76"
     },
     "panel": {
         "name": "Panels",
-        "image": "",
-        "description": "PANELS DESCRIPTION"
+        "image": "panels.jpg",
+        "description": "CORE broadened its horizons by hosting panels about a wide range of topics. Exports on topics ranging from fake news to urban agriculture talked at length about the problems they were solving, the potential impacts of their ideas, and, of course, the role entrepreneurship has within these diverse industries. Founders talked about their unique paths into creating often unconventional businesses and gave inspiring stories demonstrating their tenacity, creativity, and leadership. Altogether, these panels show that entrepreneurship manifests itself in many industries, and that their are opportunities for any driven student to create an impact."
     },
     "startup-columbia": {
         "name": "Startup Columbia",
-        "image": "",
+        "image": "startup-columbia.jpg",
         "description": "For the fourth annual Startup Columbia, the university's two-day entrepreneurship festival, CORE and its partners highlighted unconventional forms of entrepreneurship and announced winners of the $250,000 Columbia Venture Challenge. The program included panels on innovation in the life sciences, climate change, fake news, and women in entrepreneurship, as well as a food pavilion featuring the city's most innovative culinary entrepreneurs. The festival concluded with Black Eyed Peas frontman and hardware startup <a href=\"http://i.am\">i.am+</a> founder <a href=\"http://will.i.am/\">will.i.am</a> delivering an heartfelt reflection on his career and the importance of the entrepreneurial mindset for younger generations regardless of where one comes from.",
         "impulse": "https://impulse.coreatcu.com/startup-columbia-2017-will-i-am-b71b075042a1"
     },
     "impulse": {
         "name": "Best of Impulse",
-        "image": "",
-        "description": "BEST OF IMPULSE DESCRIPTION"
+        "image": "impulse.jpg",
+        "description": "CORE Impulse published many articles delving into entrepreneurship both on campus and within the broader NYC ecosystem this semester, but a few of them truly captured readers' attentions. Diego Anell's <a href=\"https://impulse.coreatcu.com/a-cup-of-joe-with-jonathan-rubinstein-the-founder-of-joe-coffee-ebf8e77594de\">interview of Joe Coffee founder Jonathan Rubensten</a> explored the creation story behind everyone's favorite coffee shop on campus. Ariana Mao's <a href=\"https://impulse.coreatcu.com/ilf-and-soo-kyung-koo-advocating-for-asian-pacific-american-businesses-d065b3b2edb1\">conversation with the International Leadership Foundation's executive director Soo Kyung Koo</a> provided insight into startups founded by Asian Pacific Americans. Lastly, Jake Gutwein <a href=\"https://impulse.coreatcu.com/eric-ong-believes-in-the-midwest-heres-his-story-63b5dcf0b0d7\"> talked with Lightbank associate Eric Ong</a> about his path into entrepreneurship from the Midwest as well as the region's emerging startup scene. These articles are just the beginning of the many interesting topics tackled by Impulse writers this year."
     },
     "boston": {
         "name": "Boston Tech Trek",
-        "image": "",
-        "description": "BOSTON DESCRIPTION"
+        "image": "boston.jpg",
+        "description": "In the spring, CORE members took a trip to Boston to explore the entrepreneurial scene in one of the cities that launched America's entrepreneurial spirit. Visits to exciting companies like <a href=\"https://www.quantopian.com/\">Quantopian</a> and <a href=\"http://generalcatalyst.com/\">General Catalyst</a> were coupled with visits to historic landmarks. Additionally, CORE met with members of <a href=\"https://twitter.com/harvardventures\">Harvard Ventures</a> and <a href=\"https://www.northeastern.edu/idea/\">Northeastern's IDEA lab</a> to share ideas about how to best foster entrepreneurship on campuses."
     },
     "berlin": {
-        "name": "Berline Tech Trek",
-        "image": "",
+        "name": "Berlin Tech Trek",
+        "image": "berlin.jpg",
         "description": "BERLIN DESCRIPTION"
     },
     "eve": {
         "name": "EVE: Entrepreneurship Via Exploration",
-        "image": "",
+        "image": "eve.JPG",
         "description": "EVE, Entrepreneurship via Exploration, is a new weekly, educational program that immersed 12 first-year students within NYC's rich entrepreneurial ecosystem. By speaking with professionals from companies like Expa Labs, RRE Ventures, and Google, the students were exposed to all aspects of the startup process. At the same time, students met with Columbia's very own student founders to see how their peers have participated in the ecosystem. Not only did the students explore NYC's entrepreneurial ecosystem, but also the city itself as they enjoyed community activities in places like Chelsea Market and Central Park. "
     }
 }
