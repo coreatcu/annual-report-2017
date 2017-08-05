@@ -2,7 +2,7 @@
     "barcelona": {
         "name": "Barcelona Tech Trek",
         "image": "barcelona.jpg",
-        "description": "BARCELONA DESCRIPTION"
+        "description": "22 students spent spring break with CORE in Barcelona exploring its rich entrepreneurial shores and deep cultural history. Trip participants met operators, investors, and founders from companies tackling enterprise foreign exchange, mobile advertising, and computer vision for fashion retail. Between hostel nights and site visits, students also got to enjoy plentiful paella, Gaudi's architetural legacy, and each other's company over late-night tapas, Zara excursions, and Nutella-stuffed churros."
     },
     "almaworks": {
         "name": "Almaworks",
@@ -25,7 +25,7 @@
     "panel": {
         "name": "Panels",
         "image": "panels.jpg",
-        "description": "PANELS DESCRIPTION"
+        "description": "CORE broadened its horizons by hosting panels about a wide range of topics. Exports on topics ranging from fake news to urban agriculture talked at length about the problems they were solving, the potential impacts of their ideas, and, of course, the role entrepreneurship has within these diverse industries. Founders talked about their unique paths into creating often unconventional businesses and gave inspiring stories demonstrating their tenacity, creativity, and leadership. Altogether, these panels show that entrepreneurship manifests itself in many industries, and that their are opportunities for any driven student to create an impact."
     },
     "startup-columbia": {
         "name": "Startup Columbia",
@@ -36,12 +36,12 @@
     "impulse": {
         "name": "Best of Impulse",
         "image": "impulse.jpg",
-        "description": "BEST OF IMPULSE DESCRIPTION"
+        "description": "CORE Impulse published many articles delving into entrepreneurship both on campus and within the broader NYC ecosystem this semester, but a few of them truly captured readers' attentions. Diego Anell's <a href=\"https://impulse.coreatcu.com/a-cup-of-joe-with-jonathan-rubinstein-the-founder-of-joe-coffee-ebf8e77594de\">interview of Joe Coffee founder Jonathan Rubensten</a> explored the creation story behind everyone's favorite coffee shop on campus. Ariana Mao's <a href=\"https://impulse.coreatcu.com/ilf-and-soo-kyung-koo-advocating-for-asian-pacific-american-businesses-d065b3b2edb1\">conversation with the International Leadership Foundation's executive director Soo Kyung Koo</a> provided insight into startups founded by Asian Pacific Americans. Lastly, Jake Gutwein <a href=\"https://impulse.coreatcu.com/eric-ong-believes-in-the-midwest-heres-his-story-63b5dcf0b0d7\"> talked with Lightbank associate Eric Ong</a> about his path into entrepreneurship from the Midwest as well as the region's emerging startup scene. These articles are just the beginning of the many interesting topics tackled by Impulse writers this year."
     },
     "boston": {
         "name": "Boston Tech Trek",
         "image": "boston.jpg",
-        "description": "BOSTON DESCRIPTION"
+        "description": "In the spring, CORE members took a trip to Boston to explore the entrepreneurial scene in one of the cities that launched America's entrepreneurial spirit. Visits to exciting companies like <a href=\"https://www.quantopian.com/\">Quantopian</a> and <a href=\"http://generalcatalyst.com/\">General Catalyst</a> were coupled with visits to historic landmarks. Additionally, CORE met with members of <a href=\"https://twitter.com/harvardventures\">Harvard Ventures</a> and <a href=\"https://www.northeastern.edu/idea/\">Northeastern's IDEA lab</a> to share ideas about how to best foster entrepreneurship on campuses."
     },
     "berlin": {
         "name": "Berlin Tech Trek",
