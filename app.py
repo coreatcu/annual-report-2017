@@ -1,5 +1,6 @@
 from flask import Flask, redirect, render_template, request, url_for, abort
 import simplejson
+import os
 
 app = Flask(__name__)
 data = {}
@@ -7,7 +8,9 @@ data = {}
 # import data from relevant JSON
 def load_data():
     global data
-    with open("data/events.json", 'r') as file:
+    path = os.path.join(os.path.dirname(__file__), "data/events.json")
+    print path
+    with open(path, 'r') as file:
         data = simplejson.load(file)
 
 @app.route('/')
