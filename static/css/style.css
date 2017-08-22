@@ -630,7 +630,7 @@ b i:last-child {
 }
 
 .cover-photo {
-    background-image:url(../img/cover.jpeg);
+    background-image:url(../img/cover.jpg);
     background-repeat:none;
     background-attachment:scroll;
     background-position:center center;
